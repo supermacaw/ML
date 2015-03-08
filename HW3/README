@@ -1,0 +1,8 @@
+README
+David Chang
+SID:22982914
+
+Q1 -> self explanatory, run. b is the eigenvectors/values.  
+Q3 -> self explanatory. Change the mu and sigma values and then plot.
+Q4 -> change params (train_size), or feed in a different training/test set by changing the file that is read in as training/test set.
+
